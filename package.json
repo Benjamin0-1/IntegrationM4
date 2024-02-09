@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "pg": "^8.11.3",
+    "sequelize": "^6.36.0"
+  }
+}
